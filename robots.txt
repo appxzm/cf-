@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://buecker.github.io/ramblingsinthesky/sitemap.xml
